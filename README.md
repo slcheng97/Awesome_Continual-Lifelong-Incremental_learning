@@ -67,7 +67,8 @@
  (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=v9hAX77--cZ)] 
 - <a name="todo"></a> Reset-Free Lifelong Learning with Skill-Space Planning 
 (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HIGSa_3kOx3)]
-- <a name="todo"></a> Lifelong Learning of Compositional Structures (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2007.07732)] 
+- <a name="todo"></a> Lifelong Learning of Compositional Structures (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2007.07732)]
+- <a name="todo"></a> Lifelong Zero-Shot Learning(**IJCAI, 2021**)  [[paper](https://www.ijcai.org/proceedings/2020/77)] 
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
 - <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
