@@ -13,23 +13,30 @@
 - <a name="todo"></a> Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning (**CVPR, 2021**)
 - <a name="todo"></a> Prototype Augmentation and Self-Supervision for Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.14898)]
 - <a name="todo"></a> SceneGraphFusion: Incremental 3D Scene Graph Prediction From RGB-D Sequences (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.14898)]
-- <a name="todo"></a> Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2012.04324)]
+- <a name="todo"></a> Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2012.04324)]
 - <a name="todo"></a> Image De-Raining via Continual Learning (**CVPR, 2021**)
-- <a name="todo"></a> ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2101.00407)]
+- <a name="todo"></a> ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2101.00407)]
 - <a name="todo"></a> Layerwise Optimization by Gradient Decomposition for Continual Learning (**CVPR, 2021**)
 - <a name="todo"></a> Few-Shot Incremental Learning With Continually Evolved Classifiers (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.03047)]
 - <a name="todo"></a> Continual Learning via Bit-Level Information Preserving (**CVPR, 2021**) [[paper](https://arxiv.org/pdf/2105.04444.pdf)]
 - <a name="todo"></a> Learning the Superpixel in a Non-Iterative and Lifelong Manner (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.10681)]
-- <a name="todo"></a> Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (**CVPR, 2021**) [[paper](https://www2.cs.sfu.ca/~mori/research/papers/zhai-cvpr21.pdf)]
+- <a name="todo"></a> Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation 
+(**CVPR, 2021**) [[paper](https://www2.cs.sfu.ca/~mori/research/papers/zhai-cvpr21.pdf)]
 - <a name="todo"></a> Lifelong Person Re-Identification via Adaptive Knowledge Accumulation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.12462)]
 - <a name="todo"></a> Incremental Learning via Rate Reduction (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2011.14593)]
 - <a name="todo"></a> Incremental Few-Shot Instance Segmentation (**CVPR, 2021**)
 - <a name="todo"></a> On Learning the Geodesic Path for Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.08572)]
-- <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2010.05063)] 
-- <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
+- <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2010.05063)] 
+- <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
 - <a name="todo"></a> Rectification-based Knowledge Retention for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16597)] 
-- <a name="todo"></a> DER: Dynamically Expandable Representation for Class Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16788)] 
-- <a name="todo"></a> Rainbow Memory: Continual Learning with a Memory of Diverse Samples (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.17230)] 
+- <a name="todo"></a> DER: Dynamically Expandable Representation for Class Incremental Learning 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16788)] 
+- <a name="todo"></a> Rainbow Memory: Continual Learning with a Memory of Diverse Samples 
+(**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.17230)] 
 - <a name="todo"></a> Training Networks in Null Space of Feature Covariance for Continual Learning
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.07113)] 
 - <a name="todo"></a> Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning
@@ -38,6 +45,34 @@
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2011.11390)] 
  - <a name="todo"></a> Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.06342)] 
+
+
+- <a name="todo"></a> Gradient Projection Memory for Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=3AOj0RCNC2)]
+- <a name="todo"></a> Graph-Based Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HHSEKOnPvaO)]
+- <a name="todo"></a> Wandering within a world: Online contextualized few-shot learning 
+(**ICLR, 2021**) [[paper](https://openreview.net/pdf/798a88cd0aefedd9aab888bc91f17fb86841e232.pdf)]
+- <a name="todo"></a> EEC: Learning to Encode and Regenerate Images for Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=lWaz5a9lcFU)]
+- <a name="todo"></a> Continual learning in recurrent neural networks (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2006.12109)]
+- <a name="todo"></a> Linear Mode Connectivity in Multitask and Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=Fmg_fQYUejf)] 
+- <a name="todo"></a> Contextual Transformation Networks for Online Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=zx_uX-BO7CH)] 
+- <a name="todo"></a> Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting 
+(**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=tHgJoMfy6nI)] 
+- <a name="todo"></a> Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning 
+(**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=LXMSvPmsm0g)] 
+- <a name="todo"></a> Generalized Variational Continual Learning
+(**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=_IM-AfFhna9)] 
+- <a name="todo"></a> CPR: Classifier-Projection Regularization for Continual Learning
+ (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2006.07326)] 
+- <a name="todo"></a> Incremental few-shot learning via vector quantization in deep embedded space
+ (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=3SV-ZePhnZM)] 
+ - <a name="todo"></a> Learning Structural Edits via Incremental Tree Transformations
+ (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=v9hAX77--cZ)] 
+ - <a name="todo"></a> Reset-Free Lifelong Learning with Skill-Space Planning
+ (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HIGSa_3kOx3)]
+  - <a name="todo"></a> Lifelong Learning of Compositional Structures
+ (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2007.07732)] 
+
+
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
 - <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
