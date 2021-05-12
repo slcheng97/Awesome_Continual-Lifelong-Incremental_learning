@@ -41,12 +41,10 @@
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.07113)] 
 - <a name="todo"></a> Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.04059)] 
- - <a name="todo"></a> PLOP: Learning without Forgetting for Continual Semantic Segmentation
+- <a name="todo"></a> PLOP: Learning without Forgetting for Continual Semantic Segmentation
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2011.11390)] 
- - <a name="todo"></a> Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations
+- <a name="todo"></a> Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations
  (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.06342)] 
-
-
 - <a name="todo"></a> Gradient Projection Memory for Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=3AOj0RCNC2)]
 - <a name="todo"></a> Graph-Based Continual Learning (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HHSEKOnPvaO)]
 - <a name="todo"></a> Wandering within a world: Online contextualized few-shot learning 
@@ -65,14 +63,11 @@
  (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2006.07326)] 
 - <a name="todo"></a> Incremental few-shot learning via vector quantization in deep embedded space
  (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=3SV-ZePhnZM)] 
- - <a name="todo"></a> Learning Structural Edits via Incremental Tree Transformations
+- <a name="todo"></a> Learning Structural Edits via Incremental Tree Transformations
  (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=v9hAX77--cZ)] 
- - <a name="todo"></a> Reset-Free Lifelong Learning with Skill-Space Planning
- (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HIGSa_3kOx3)]
-  - <a name="todo"></a> Lifelong Learning of Compositional Structures
- (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2007.07732)] 
-
-
+- <a name="todo"></a> Reset-Free Lifelong Learning with Skill-Space Planning 
+(**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=HIGSa_3kOx3)]
+- <a name="todo"></a> Lifelong Learning of Compositional Structures (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2007.07732)] 
 - <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) [[paper](https://arxiv.org/abs/2009.00093)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Lifelong and Continual Learning Dialogue Systems: Learning during Conversation(**AAAI, 2021**)  [[paper](https://www.cs.uic.edu/~liub/publications/LINC_paper_AAAI_2021_camera_ready.pdf)] 
 - <a name="todo"></a> Continual learning for named entity recognition(**AAAI, 2021**) [[paper](https://www.amazon.science/publications/continual-learning-for-named-entity-recognition)] 
