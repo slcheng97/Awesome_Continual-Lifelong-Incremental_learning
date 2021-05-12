@@ -9,7 +9,23 @@
  (**Neural Networks**) [[paper](https://arxiv.org/abs/1802.07569)]
 ## Papers
 ### 2021
-- <a name="todo"></a> Distilling Causal Effect of Data in Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.01737)] 
+- <a name="todo"></a> IIRC: Incremental Implicitly-Refined Classification (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2012.12477)]
+- <a name="todo"></a> Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning (**CVPR, 2021**)
+- <a name="todo"></a> Prototype Augmentation and Self-Supervision for Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.14898)]
+- <a name="todo"></a> SceneGraphFusion: Incremental 3D Scene Graph Prediction From RGB-D Sequences (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.14898)]
+- <a name="todo"></a> Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2012.04324)]
+- <a name="todo"></a> Image De-Raining via Continual Learning (**CVPR, 2021**)
+- <a name="todo"></a> ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2101.00407)]
+- <a name="todo"></a> Layerwise Optimization by Gradient Decomposition for Continual Learning (**CVPR, 2021**)
+- <a name="todo"></a> Few-Shot Incremental Learning With Continually Evolved Classifiers (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.03047)]
+- <a name="todo"></a> Continual Learning via Bit-Level Information Preserving (**CVPR, 2021**) [[paper](https://arxiv.org/pdf/2105.04444.pdf)]
+- <a name="todo"></a> Learning the Superpixel in a Non-Iterative and Lifelong Manner (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.10681)]
+- <a name="todo"></a> Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (**CVPR, 2021**) [[paper](https://www2.cs.sfu.ca/~mori/research/papers/zhai-cvpr21.pdf)]
+- <a name="todo"></a> Lifelong Person Re-Identification via Adaptive Knowledge Accumulation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.12462)]
+- <a name="todo"></a> Incremental Learning via Rate Reduction (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2011.14593)]
+- <a name="todo"></a> Incremental Few-Shot Instance Segmentation (**CVPR, 2021**)
+- <a name="todo"></a> On Learning the Geodesic Path for Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.08572)]
+- <a name="todo"></a> Adaptive Aggregation Networks for Class-Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2010.05063)] 
 - <a name="todo"></a> Efficient Feature Transformations for Discriminative and Generative Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.13558)] 
 - <a name="todo"></a> Rectification-based Knowledge Retention for Continual Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16597)] 
 - <a name="todo"></a> DER: Dynamically Expandable Representation for Class Incremental Learning (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2103.16788)] 
