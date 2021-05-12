@@ -190,8 +190,6 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 ### 2016
 - <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
 
-## [Awesome Long-Tailed Recognition / Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
-#### Find it interesting that there are more shared techniques than I thought for incremental learning (exemplars-based). 
 
 ## ContinualAI wiki
 #### [An Open Community of Researchers and Enthusiasts on Continual/Lifelong Learning for AI](https://www.continualai.org/)
@@ -207,6 +205,5 @@ with Single-Side Overestimation (**ICCV2019**) [[paper](https://arxiv.org/pdf/19
 #### [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 #### [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io)
 
-## Feel free to contact me if you find any interesting paper is missing.
-## Workshop papers are currently out due to space.
-
+## Acknowledgement
+The content is mainly based on [Awesome_Continual-Lifelong-Incremental_learning](https://github.com/chengsilin/Awesome_Continual-Lifelong-Incremental_learning)
