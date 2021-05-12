@@ -1,4 +1,4 @@
-# Awesome Incremental Learning / Lifelong learning
+# Awesome Continual-Lifelong-Incremental learning
 ## Survey
 - <a name="todo"></a> Online Continual Learning in Image Classification: An Empirical Survey (**arXiv 2020**) [[paper](https://arxiv.org/abs/2101.10423)] [[code](https://github.com/RaptorMai/online-continual-learning)]
 - <a name="todo"></a> Continual Lifelong Learning in Natural Language Processing: A Survey (**COLING 2020**) [[paper](https://www.aclweb.org/anthology/2020.coling-main.574/)]
